@@ -107,9 +107,9 @@ var correctAnswer = new Audio("assets/audio/scene_switch.mp3");
 correctAnswer.volume = 0.2;
 var wrongAnswer = new Audio("assets/audio/wrongAnswer.mp3");
 wrongAnswer.volume = 0.2;
-var bumblebee = new Audio("assets/audio/bumblebee.wav");
+var bumblebee = new Audio("assets/audio/bumblebee.mp3");
 bumblebee.volume = 0.2;
-var optimus = new Audio("assets/audio/optimus.wav");
+var optimus = new Audio("assets/audio/optimus.mp3");
 optimus.volume = 0.2;
 
 document.onkeypress = function(event){
